@@ -7,3 +7,4 @@ Repository ini digunakan sebgaia sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](hrrps://oo.or.id).
+* Muhamad Ghozi, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
